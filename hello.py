@@ -1,2 +1,2 @@
 print("hello")
-print("I'm praticing how to compile my code on VScode")
+print("I'm praticing how to commit my code on VScode")
